@@ -1,0 +1,21 @@
+td{background-color: rgb(211, 163, 255);}
+li{background-color: rgb(163, 214, 255);}
+th{background-color: rgb(211, 163, 255);}
+
+
+@font-face{
+  font font-family: 'mifuente'; 
+   src; url(../FUENTE/The Humble);
+
+}
+
+#fuente-personalizada{
+    font-family: 'mifuente ';
+}
+body {
+    background-color: blue;
+}
+h1 {
+    color: red;
+    padding: 60px;
+}
